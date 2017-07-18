@@ -6,6 +6,8 @@
 #include <sstream>
 #include <iostream>
 
+#include "SOIL2/SOIL2.h";
+
 #include <GL/glew.h>
 
 class Shader
